@@ -21,7 +21,7 @@
 
 ### Heroku
 
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/official7H/HEROX-PVT-SPAM)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Team-Domintors/dominator-spam)
 - [![Deploy](https://img.shields.io/badge/DEPLOY%20VIA%20TELEGRAM%20BOT-blueviolet?style=for-the-badge&logo=telegram)](https://telegram.dog/XTZ_HerokuBot?start=b2ZmaWNpYWw3SC9IRVJPWC1QVlQtU1BBTSBtYWlu)
 
 ### String Generator
